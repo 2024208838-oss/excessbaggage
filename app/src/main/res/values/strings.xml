@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Excess Baggage Fee Calculator</string>
+    <string name="weight_hint">Baggage weight (kg)</string>
+    <string name="rate_hint">Rate per kg (RM)</string>
+    <string name="economy">Economy</string>
+    <string name="business">Business</string>
+    <string name="calculate">Calculate</string>
+    <string name="excess_weight_default">Excess weight: -</string>
+    <string name="excess_charge_default">Excess charge: -</string>
+    <string name="total_payable_default">Total payable: -</string>
+    <string name="about_title">Excess Baggage Fee Calculator</string>
+    <string name="about_description">This app estimates the excess baggage fee for air travel based on baggage weight, ticket class and rate per kg (8% service tax included).</string>
+    <string name="about_developer">Developer: Muhammad Haiqal Hakim Bin Mohamad Ghazali \nStudent No: 2024275476 \nGroup: RCDCS2405B \nProgramme Code: CS240\nCourse: ICT602 Mobile Technology</string>
+    <string name="website_github_label">Website / GitHub:</string>
+    <string name="github_url">https://github.com/yourusername/ExcessBaggage</string>
+    <string name="copyright">© 2026 Muhammad Haiqal Hakim Bin Mohamad Ghazali. All rights reserved.</string>
+    <string name="excess_weight_format">Excess weight: %1$.1f kg</string>
+    <string name="excess_charge_format">Excess charge: RM %1$s</string>
+    <string name="total_payable_format">Total payable: RM %1$s</string>
+    <string name="share_message">Check out this app: https://github.com/yourusername/ExcessBaggage</string>
+    <string name="share_title">Share via</string>
+</resources>
